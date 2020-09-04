@@ -1,7 +1,6 @@
-# first_app
+# My First App
 
-A new Flutter project.
-
+This is a simple flutter app. It asks some questions and evaluate the answers to show the result, the code is siple and easy to undestand. A pretty simple app for begginers.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
